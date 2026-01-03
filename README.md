@@ -6,7 +6,7 @@ web developer & designer
 
 i have been learning coding 5 years and now im here
 
-*   🌍  I'm based in New York
+*   🌍  I'm based in Turkmenistan
 *   🖥️  See my portfolio at [MyPortfolio](http://www.instagram.com/halim_torayev/)
 *   ✉️  You can contact me at [pandora1844panda@gmail.com](mailto:pandora1844panda@gmail.com)
 *   🧠  I'm currently learning a NodeJS
@@ -29,3 +29,4 @@ i have been learning coding 5 years and now im here
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/pandora184u"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
+
